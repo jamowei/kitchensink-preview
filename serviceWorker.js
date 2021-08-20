@@ -9,7 +9,7 @@ var cacheFiles = [
     '/kitchensink-preview/ocean.min.css',
     '/kitchensink-preview/img/appFrame_areas.png',
     '/kitchensink-preview/img/background.jpg',
-    '/kitchensink-preview/fritz2-kitchensink.js'
+    '/kitchensink-preview/fritz2-kitchensink.js',
     '/kitchensink-preview/fritz2-kitchensink.js.map'
 ];
 
