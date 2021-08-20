@@ -1,10 +1,12 @@
 {
   "name": "fritz2 - KitchenSink",
   "short_name": "KitchenSink",
-  "theme_color": "rgb(12,81,115)",
+  "description": "fritz2 components demo overview",
+  "theme_color": "#0C5173",
   "background_color": "#ffffff",
-  "display": "fullscreen",
+  "display": "standalone",
   "start_url": "/kitchensink-preview/#Welcome",
+  "scope": "/",
   "icons": [
     {
       "src": "icon/fritz2_180.png",
