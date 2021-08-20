@@ -4,8 +4,7 @@
   "theme_color": "rgb(12,81,115)",
   "background_color": "#ffffff",
   "display": "fullscreen",
-  "scope": "/",
-  "start_url": "/",
+  "start_url": "/kitchensink-preview/#Welcome",
   "icons": [
     {
       "src": "icon/fritz2_180.png",
