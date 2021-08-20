@@ -5,12 +5,12 @@ var cacheFiles = [
   // If loading from cache, fetch from network in the background to update the resource. Examples:
   // 'assets/img/logo.png',
   // 'assets/models/controller.gltf',
-    'highlight.min.js',
-    'ocean.min.css',
-    'img/appFrame_areas.png',
-    'img/background.jpg',
-    'fritz2-kitchensink.js'
-    'fritz2-kitchensink.js.map'
+    '/kitchensink-preview/highlight.min.js',
+    '/kitchensink-preview/ocean.min.css',
+    '/kitchensink-preview/img/appFrame_areas.png',
+    '/kitchensink-preview/img/background.jpg',
+    '/kitchensink-preview/fritz2-kitchensink.js'
+    '/kitchensink-preview/fritz2-kitchensink.js.map'
 ];
 
 

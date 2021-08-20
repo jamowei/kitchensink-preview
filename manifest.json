@@ -6,7 +6,6 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "start_url": "/kitchensink-preview/#Welcome",
-  "scope": "/",
   "icons": [
     {
       "src": "icon/fritz2_180.png",
